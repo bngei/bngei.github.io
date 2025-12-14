@@ -129,7 +129,7 @@ body {
     position: relative;
     padding: 2.5vw;
     margin: 0.8vw;
-    border-radius: 100px;
+    border-radius: 50px;
 }
 
 .project_box h2 {
@@ -164,7 +164,7 @@ body {
 }
 
 .project_image {
-    border-radius: 50px;
+    border-radius: 25px;
 }
 
 /* For any screen smaller than 990px */
